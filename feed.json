@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2025/07/19/first-time-in-wildwood-crest/",
+				
+				"content_html": "<p>First time in Wildwood Crest since I was a kid. I woke up early &amp; got in a nice 10K — out to the north sea wall and back. It started raining as I reached the turn around point and I finished the run in a cool downpour.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "First time in Wildwood Crest since I was a kid. I woke up early & got in a nice 10K — out to the north sea wall and back. It started raining as I reached the turn around point and I finished the run in a cool downpour. \n\n<img src=\"uploads/2025/72cbdcdf2b.jpg\" width=\"600\" height=\"449\" alt=\"Large letters spelling &quot;WILDWOODS&quot; are prominently displayed on a boardwalk with spherical decorations in front and a cloudy sky in the background.\"><img src=\"uploads/2025/b7619ef763.jpg\" width=\"600\" height=\"450\" alt=\"A rocky shoreline meets a vast, cloudy sky over an expansive ocean.\">\n",
+				"date_published": "2025-07-19T11:19:32-04:00",
+				"url": "https://staticmade.com/2025/07/19/first-time-in-wildwood-crest/",
+				"tags": ["Adventures","Travel"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/17/i-started-the-long-and/",
+				
+				"content_html": "<p>I started the long and arduous process of cataloging my record collection, and thought it would be good to throw a quick page together using the Discogs API . I&rsquo;ve got a long way to go in the cataloging effort, but I&rsquo;m liking the way <a href=\"https://staticmade.com/record-collection/\">the collection page</a> is coming together!</p>\n",
+				"content_text": "I started the long and arduous process of cataloging my record collection, and thought it would be good to throw a quick page together using the Discogs API . I've got a long way to go in the cataloging effort, but I'm liking the way [the collection page](https://staticmade.com/record-collection/) is coming together! \n",
+				"date_published": "2025-07-17T18:16:46-04:00",
+				"url": "https://staticmade.com/2025/07/17/i-started-the-long-and/",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2025/07/16/ebb-flow/",
 				"title": "Ebb + Flow",
 				"content_html": "<p>I&rsquo;m sitting here at my laptop for what feels like the first time in weeks, and it feels good. Really good. Like returning home after being away for too long.</p>\n<p>The past few weeks have been a whirlwind. Elliott graduated high school. One chapter closing, another opening. We threw him a graduation party that seemed to take over our entire lives for a month. Planning for 100 people at our house, coordinating catering, setting up tents, worrying about weather. The setup was exhausting, the teardown even more so.</p>\n<p>But when it was happening? Pure magic. Watching Elliott surrounded by friends and family, seeing the pride on everyone&rsquo;s faces, feeling that collective celebration of this milestone &ndash; it was everything we hoped it would be and more.</p>\n<p>Between the party planning, family travel, and an unusually demanding stretch at work, writing this site took a temporary backseat. This site sat here, patient and waiting, while life demanded my full attention elsewhere. And you know what? That&rsquo;s exactly how it should be.</p>\n<p>There&rsquo;s something extremely natural about the ebb and flow of creative practice. Some seasons are for output, when thoughts are flowing and the words come easily. Other seasons are for input &ndash; for living, experiencing, gathering the raw material that eventually becomes the next wave of posts.</p>\n<p>I used to feel guilty about the quiet periods. Like I was failing some invisible obligation to feed the algorithm, to maintain momentum, to stay visible in the endless scroll. But that&rsquo;s the beauty of owning your own corner of the web. It doesn&rsquo;t demand daily feeding. It doesn&rsquo;t punish you for taking time away. It simply exists, ready for whenever you return.</p>\n<p>This space has become something I didn&rsquo;t expect when I started writing here: a refuge. A place where I can think out loud, process experiences, and document the moments that matter. It&rsquo;s here when I need to work through something complex, celebrate something meaningful, or simply reconnect with the practice of writing.</p>\n<p>Tonight, sitting here after being fully present for graduation ceremonies and family celebrations and work deadlines, I&rsquo;m grateful for this patient digital home. I&rsquo;m grateful for the rhythm that allows for both busy seasons and reflective ones. And I&rsquo;m grateful that some things in our hyperdigital world still move at human speed.</p>\n",
