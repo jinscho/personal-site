@@ -7,6 +7,150 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2025/08/08/ive-admired-the-work-of/",
+				
+				"content_html": "<p>I&rsquo;ve admired the work of <a href=\"https://www.aaronland.info\">Aaron Cope</a> for a very long time &ndash; since he was at the Cooper-Hewitt and I was at the Carnegie Museum of Art &ndash; which I now realize measures my admiration in decades, not years. Time flies.</p>\n<p>Anyhoo, Aaron&rsquo;s now at the SFO Museum and <a href=\"https://www.aaronland.info/weblog/2025/08/08/best/#sfom\">he recently prompted several LLMs to tell him about his place of employment</a>. He tested both open source and proprietary models, and found great disparity between them, which highlights some big questions around AI and socio-economic equity.</p>\n<p>No model performed well and some flat-out lied. The entire recap is a must-read, but this passage gets a chef&rsquo;s kiss from me:</p>\n<blockquote>\n<p>Which begs the question: Why is Google&rsquo;s open model (gemma3) so wrong? I am going to go out on a limb and suggest that the same dynamic is at play with OpenAI&rsquo;s (and everyone else&rsquo;s) flagship, and subscription-based, models and their open models: Accuracy is metered toll road and everything is just a mystery-meat coleslaw of signals.</p>\n</blockquote>\n<p>He goes on:</p>\n<blockquote>\n<p>In a nutshell, we are on our way to replicating the same environment that the collective-we have fostered around processed foods for the last 75 years – all the problems concerning availability, cost, nutrition, consequences – but with knowledge and understanding itself.</p>\n</blockquote>\n<p>The comparison to processed foods is apt. We are finding ourselves in quite the predicament and models getting &lsquo;righter&rsquo; over time is not the answer. I get the sense that we are walking through a one-way door and on the other side waits a perpetual diet of mental hot dogs.</p>\n",
+				"content_text": "I've admired the work of [Aaron Cope](https://www.aaronland.info) for a very long time -- since he was at the Cooper-Hewitt and I was at the Carnegie Museum of Art -- which I now realize measures my admiration in decades, not years. Time flies.\n\nAnyhoo, Aaron's now at the SFO Museum and [he recently prompted several LLMs to tell him about his place of employment](https://www.aaronland.info/weblog/2025/08/08/best/#sfom). He tested both open source and proprietary models, and found great disparity between them, which highlights some big questions around AI and socio-economic equity. \n\nNo model performed well and some flat-out lied. The entire recap is a must-read, but this passage gets a chef's kiss from me:\n\n>Which begs the question: Why is Google's open model (gemma3) so wrong? I am going to go out on a limb and suggest that the same dynamic is at play with OpenAI's (and everyone else's) flagship, and subscription-based, models and their open models: Accuracy is metered toll road and everything is just a mystery-meat coleslaw of signals.\n\nHe goes on:\n\n>In a nutshell, we are on our way to replicating the same environment that the collective-we have fostered around processed foods for the last 75 years – all the problems concerning availability, cost, nutrition, consequences – but with knowledge and understanding itself.\n\nThe comparison to processed foods is apt. We are finding ourselves in quite the predicament and models getting 'righter' over time is not the answer. I get the sense that we are walking through a one-way door and on the other side waits a perpetual diet of mental hot dogs.\n",
+				"date_published": "2025-08-08T13:51:06-04:00",
+				"url": "https://staticmade.com/2025/08/08/ive-admired-the-work-of/",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/08/walkupdb-is-a-database-and/",
+				
+				"content_html": "<p><a href=\"https://walkupdb.com\">WalkUpDB</a> is a database and website that tracks the walk-up songs for every MLB player. The internet was made for beautiful, weird things like this.</p>\n",
+				"content_text": "[WalkUpDB](https://walkupdb.com) is a database and website that tracks the walk-up songs for every MLB player. The internet was made for beautiful, weird things like this.\n",
+				"date_published": "2025-08-08T09:50:23-04:00",
+				"url": "https://staticmade.com/2025/08/08/walkupdb-is-a-database-and/",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/07/john-onolan-reflects-on-shipping/",
+				
+				"content_html": "<p><a href=\"https://john.onolan.org/reflections-on-the-social-web\">John O&rsquo;Nolan reflects on shipping Ghost v6.0</a>, which delivers some tight integration with the open social web:</p>\n<blockquote>\n<p>The work of a product team, when working with new technology, is to abstract away as much of this complexity as possible, so that it feels friendly and approachable to new people.</p>\n</blockquote>\n<p>100% this. I don&rsquo;t personally use Ghost, but I admire what they&rsquo;ve done here. I&rsquo;ve been saying for a while that <a href=\"https://staticmade.com/2025/01/09/onramps-to-the-open-web/\">we need to leverage design and product mindsets to build better on ramps for the open web</a>, and the Ghost team did just that.</p>\n",
+				"content_text": "[John O'Nolan reflects on shipping Ghost v6.0](https://john.onolan.org/reflections-on-the-social-web), which delivers some tight integration with the open social web:\n\n>The work of a product team, when working with new technology, is to abstract away as much of this complexity as possible, so that it feels friendly and approachable to new people. \n\n100% this. I don't personally use Ghost, but I admire what they've done here. I've been saying for a while that [we need to leverage design and product mindsets to build better on ramps for the open web](https://staticmade.com/2025/01/09/onramps-to-the-open-web/), and the Ghost team did just that.\n",
+				"date_published": "2025-08-07T15:22:05-04:00",
+				"url": "https://staticmade.com/2025/08/07/john-onolan-reflects-on-shipping/",
+				"tags": ["Digital Culture"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/07/i-stumbled-upon-this-post/",
+				
+				"content_html": "<p>I stumbled upon <a href=\"https://bsky.app/profile/davidjroth.bsky.social/post/3lvovbp5c3s2u\">this post by David J. Roth</a> and can&rsquo;t stop thinking about the concept of &ldquo;brains being defeated by phones.&rdquo; It so eloquently sums up the state of humanity right now and one of my biggest fears is that there&rsquo;s no walking back from it.</p>\n",
+				"content_text": "I stumbled upon [this post by David J. Roth](https://bsky.app/profile/davidjroth.bsky.social/post/3lvovbp5c3s2u) and can't stop thinking about the concept of \"brains being defeated by phones.\" It so eloquently sums up the state of humanity right now and one of my biggest fears is that there's no walking back from it.\n",
+				"date_published": "2025-08-07T09:51:56-04:00",
+				"url": "https://staticmade.com/2025/08/07/i-stumbled-upon-this-post/",
+				"tags": ["Digital Culture"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/07/letter-club/",
+				"title": "Letter Club",
+				"content_html": "<p><a href=\"https://letterclub.org/\">Letter Club</a>, a new project from Naz Hamid and Scott Robbin, looks very cool. From <a href=\"https://nazhamid.com/journal/letter-club/\">Naz’s announcement post</a>:</p>\n<blockquote>\n<p>Not physical letters, but digital letters that arrive with traditional mail&rsquo;s rhythm. It&rsquo;s a private group newsletter that everyone contributes to and receives. It&rsquo;s intentionally slow, purposeful, and deeply gratifying — a low-stress, high-signal way to stay connected that creates meaningful moments in a social world dominated by drive-by likes and fleeting attention.</p>\n</blockquote>\n<p>I love this concept and I’m thinking of a number of cool topics worth exploring in this small group format:</p>\n<ul>\n<li>A record club where we share new additions to our collections</li>\n<li>An adventure club that shares highlights and recaps of running, cycling, hiking or climbing endeavors</li>\n<li>A BBQ club focused on smoker &amp; grill experiments and recipes</li>\n</ul>\n<p>If one of these ideas resonates with you, hit me up. Awesome stuff, Naz and Scott!</p>\n<p><strong>Update:</strong> I created a club called <em><a href=\"https://letterclub.org/clubs/get-in-my-earholes/invitation?t=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3YTY1NWIzZC0yY2MyLTQ4NDMtYWE3ZC1kOTMwZDIxOGFiN2YifQ.6WGOg2T5gsxeKmcQKeZ-P0ENKaYQvWV79XpY0x_EPFY\">Get in My Earholes</a></em> that asks the question, &ldquo;What&rsquo;s the best record you&rsquo;ve added to your collection recently?&rdquo; Feel free to join the club&hellip;first letter goes out on 8/9 and then every 2 weeks after that.</p>\n",
+				"content_text": "[Letter Club](https://letterclub.org/), a new project from Naz Hamid and Scott Robbin, looks very cool. From [Naz’s announcement post](https://nazhamid.com/journal/letter-club/): \n\n> Not physical letters, but digital letters that arrive with traditional mail's rhythm. It's a private group newsletter that everyone contributes to and receives. It's intentionally slow, purposeful, and deeply gratifying — a low-stress, high-signal way to stay connected that creates meaningful moments in a social world dominated by drive-by likes and fleeting attention.\n\nI love this concept and I’m thinking of a number of cool topics worth exploring in this small group format:\n\n- A record club where we share new additions to our collections\n- An adventure club that shares highlights and recaps of running, cycling, hiking or climbing endeavors \n- A BBQ club focused on smoker & grill experiments and recipes \n\nIf one of these ideas resonates with you, hit me up. Awesome stuff, Naz and Scott! \n\n**Update:** I created a club called _[Get in My Earholes](https://letterclub.org/clubs/get-in-my-earholes/invitation?t=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3YTY1NWIzZC0yY2MyLTQ4NDMtYWE3ZC1kOTMwZDIxOGFiN2YifQ.6WGOg2T5gsxeKmcQKeZ-P0ENKaYQvWV79XpY0x_EPFY)_ that asks the question, \"What's the best record you've added to your collection recently?\" Feel free to join the club...first letter goes out on 8/9 and then every 2 weeks after that.\n",
+				"date_published": "2025-08-07T06:57:25-04:00",
+				"url": "https://staticmade.com/2025/08/07/letter-club/",
+				"tags": ["Digital Culture","Essays"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/06/this-informative-post-from-a/",
+				
+				"content_html": "<p>This <a href=\"https://blog.anew.social/bridging-vs-cross-posting/\">informative post from A New Social</a> does a great job highlighting the nuances and differences between bridging and cross-posting on the open web:</p>\n<blockquote>\n<p>Notably, bridging results in more unified conversations, while cross-posted conversations are more fragmented.</p>\n</blockquote>\n<p>My site bridges to both Mastodon and Bluesky, which is great because I never have to  look at either in order to participate in conversations on both platforms.</p>\n",
+				"content_text": "This [informative post from A New Social](https://blog.anew.social/bridging-vs-cross-posting/) does a great job highlighting the nuances and differences between bridging and cross-posting on the open web:\n\n>Notably, bridging results in more unified conversations, while cross-posted conversations are more fragmented.\n\nMy site bridges to both Mastodon and Bluesky, which is great because I never have to  look at either in order to participate in conversations on both platforms.\n",
+				"date_published": "2025-08-06T15:57:03-04:00",
+				"url": "https://staticmade.com/2025/08/06/this-informative-post-from-a/",
+				"tags": ["Digital Culture"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/04/wow-this-forthcoming-documentary-about/",
+				
+				"content_html": "<p>WOW! This forthcoming <a href=\"https://youtu.be/DRrcgLRX8Qc?si=gBTJeTy0pNcRc_vi\">documentary about Jeff Buckley</a> looks amazing. (h/t <a href=\"https://bsky.app/profile/manbartlett.com/post/3lvlnxtjwbs2a\">Man Bartlett</a>)</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/DRrcgLRX8Qc\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "WOW! This forthcoming [documentary about Jeff Buckley](https://youtu.be/DRrcgLRX8Qc?si=gBTJeTy0pNcRc_vi) looks amazing. (h/t [Man Bartlett](https://bsky.app/profile/manbartlett.com/post/3lvlnxtjwbs2a))\n\n{{< youtube DRrcgLRX8Qc >}}\n",
+				"date_published": "2025-08-04T13:24:55-04:00",
+				"url": "https://staticmade.com/2025/08/04/wow-this-forthcoming-documentary-about/",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/02/grippin-it-and-rippin-it/",
+				
+				"content_html": "<p>Grippin’ it and rippin’ it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Grippin’ it and rippin’ it. \n\n<img src=\"https://staticmade.com/uploads/2025/68cd67b449.jpg\" width=\"449\" height=\"600\" alt=\"A person holding a golf club stands on a golf course with trees and a cityscape in the background.\">\n",
+				"date_published": "2025-08-02T12:40:07-04:00",
+				"url": "https://staticmade.com/2025/08/02/grippin-it-and-rippin-it/",
+				"tags": ["Adventures","Pittsburgh"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/08/01/jameson-line-pause-line/",
+				"title": "Jameson - line (pause) line",
+				"content_html": "<p>A friend reached out the other day asking if a self-released EP my band put out back in the day was streaming anywhere online. It was not, so <a href=\"https://youtube.com/playlist?list=PLpN1Tp3XY9JqC80ySkklV4j0jx7HvPuC0&amp;si=3FA6aT7k12dPlsO1\">I uploaded it as a playlist to YouTube</a>.</p>\n<p>Released in late 1999, <em>line (pause) line</em> was the first and only recording we put out into the world. We toured a bit supporting it opening for bands like Midtown, The Juliana Theory, Further Seems Forever and the like, and I have some amazing memories from this period of my life.</p>\n<p>I haven&rsquo;t listened to it in ages, and thought I&rsquo;d cringe a bit upon hearing it, but I&rsquo;m cringing less than expected. It actually brought a smile to my face and unlocked those memories once again.</p>\n<p>Let me know if you want the mp3 files and I can email them to you.</p>\n",
+				"content_text": "A friend reached out the other day asking if a self-released EP my band put out back in the day was streaming anywhere online. It was not, so [I uploaded it as a playlist to YouTube](https://youtube.com/playlist?list=PLpN1Tp3XY9JqC80ySkklV4j0jx7HvPuC0&si=3FA6aT7k12dPlsO1).\n\nReleased in late 1999, _line (pause) line_ was the first and only recording we put out into the world. We toured a bit supporting it opening for bands like Midtown, The Juliana Theory, Further Seems Forever and the like, and I have some amazing memories from this period of my life.\n\nI haven't listened to it in ages, and thought I'd cringe a bit upon hearing it, but I'm cringing less than expected. It actually brought a smile to my face and unlocked those memories once again.\n\nLet me know if you want the mp3 files and I can email them to you.\n",
+				"date_published": "2025-08-01T12:22:05-04:00",
+				"url": "https://staticmade.com/2025/08/01/jameson-line-pause-line/",
+				"tags": ["Music","Essays"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/31/today-we-celebrate-twenty-one/",
+				
+				"content_html": "<p>Today we celebrate twenty one years of wedded bliss. Together for twenty eight. To honor the occasion of our marriage being old enough to drink, here is <a href=\"https://staticmade.com/2004/10/31/mr-mullett-and-mary-katherine/\">the first photo I ever posted of us on this site</a> &ndash; from Halloween 2004.</p>\n<p>She got me then, she gets me now. I do not deserve her.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today we celebrate twenty one years of wedded bliss. Together for twenty eight. To honor the occasion of our marriage being old enough to drink, here is [the first photo I ever posted of us on this site](https://staticmade.com/2004/10/31/mr-mullett-and-mary-katherine/) -- from Halloween 2004.\n\nShe got me then, she gets me now. I do not deserve her.\n\n<img src=\"https://staticmade.com/uploads/2025/halloween.jpg\" alt=\"A dimly lit setting features two people posing closely together, one wearing a hat and sunglasses, with illuminated signs in the background.\">\n",
+				"date_published": "2025-07-31T16:37:47-04:00",
+				"url": "https://staticmade.com/2025/07/31/today-we-celebrate-twenty-one/",
+				"tags": ["Family"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/29/king-gizzard-the-lizard-wizard/",
+				
+				"content_html": "<p><a href=\"https://pitchfork.com/news/king-gizzard-and-the-lizard-wizard-leave-spotify/\">King Gizzard &amp; the Lizard Wizard Leave Spotify</a>:</p>\n<blockquote>\n<p>Hello friends. A PSA to those unaware: Spotify CEO Daniel Ek invests millions in AI military drone technology. We just removed our music from the platform. Can we put pressure on these Dr. Evil tech bros to do better? Join us on another platform 🕊️</p>\n</blockquote>\n",
+				"content_text": "[King Gizzard & the Lizard Wizard Leave Spotify](https://pitchfork.com/news/king-gizzard-and-the-lizard-wizard-leave-spotify/):\n\n>Hello friends. A PSA to those unaware: Spotify CEO Daniel Ek invests millions in AI military drone technology. We just removed our music from the platform. Can we put pressure on these Dr. Evil tech bros to do better? Join us on another platform 🕊️\n",
+				"date_published": "2025-07-29T11:03:55-04:00",
+				"url": "https://staticmade.com/2025/07/29/king-gizzard-the-lizard-wizard/",
+				"tags": ["Media"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/28/humidity-this-morning-felt-like/",
+				
+				"content_html": "<p>100% humidity this morning. Felt like running through soup. 🏃🏻‍♂️</p>\n",
+				"content_text": "100% humidity this morning. Felt like running through soup. 🏃🏻‍♂️\n",
+				"date_published": "2025-07-28T08:50:04-04:00",
+				"url": "https://staticmade.com/2025/07/28/humidity-this-morning-felt-like/",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/27/a-photo-dump-of-some/",
+				
+				"content_html": "<p>A photo dump of some of my favorites from last week in Wildwood Crest, New Jersey.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A photo dump of some of my favorites from last week in Wildwood Crest, New Jersey. \n\n<img src=\"https://staticmade.com/uploads/2025/1bc1acb015.jpg\" width=\"600\" height=\"450\" alt=\"A brightly lit Ferris wheel displays colorful lights against a dark night sky.\"><img src=\"https://staticmade.com/uploads/2025/767945d96c.jpg\" width=\"600\" height=\"450\" alt=\"A tranquil sunset over a marina with boats docked on either side.\"><img src=\"https://staticmade.com/uploads/2025/46bf039d34.jpg\" width=\"600\" height=\"450\" alt=\"A family is enjoying slices of pizza while sitting on a blue bench by the beach.\"><img src=\"https://staticmade.com/uploads/2025/d0002c84b3.jpg\" width=\"600\" height=\"450\" alt=\"A boat labeled &quot;CREST&quot; is displayed on a bed of colorful flowers by a concrete walkway under a partly cloudy sky.\"><img src=\"https://staticmade.com/uploads/2025/2035f3696d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/28e8fb8e0e.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/6c9690a5e5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/03c7f324f0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-07-27T08:10:32-04:00",
+				"url": "https://staticmade.com/2025/07/27/a-photo-dump-of-some/",
+				"tags": ["Family","Travel"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/24/a-pictureperfect-run-down-to/",
+				
+				"content_html": "<p>A picture-perfect run down to the <a href=\"https://friendsofcapemaynationalwildliferefuge.org/\">Cape May National Wildlife Refuge</a> this morning. It’s our last morning here and I ended it on a high note. I’m glad I packed the Topo Mountain Racers because I logged plenty of beach miles this week.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A picture-perfect run down to the [Cape May National Wildlife Refuge](https://friendsofcapemaynationalwildliferefuge.org/) this morning. It’s our last morning here and I ended it on a high note. I’m glad I packed the Topo Mountain Racers because I logged plenty of beach miles this week. \n\n<img src=\"https://staticmade.com/uploads/2025/0f9e6ad9e8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/a10feb421c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/334371cdc7.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://staticmade.com/uploads/2025/ebe743d597.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-07-24T08:38:18-04:00",
+				"url": "https://staticmade.com/2025/07/24/a-pictureperfect-run-down-to/",
+				"tags": ["Adventures","Travel"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/22/iron-man-was-the-first/",
+				
+				"content_html": "<p>Iron Man was the first stong I learned to play on the guitar. After years of trying, I never was able to nail those solos in Crazy Train. My band covered Mamma I&rsquo;m Coming Home at the middle school talent show. We lost a legend today. RIP Ozzy.  \\m/</p>\n",
+				"content_text": "Iron Man was the first stong I learned to play on the guitar. After years of trying, I never was able to nail those solos in Crazy Train. My band covered Mamma I'm Coming Home at the middle school talent show. We lost a legend today. RIP Ozzy.  \\m/ \n",
+				"date_published": "2025-07-22T15:20:47-04:00",
+				"url": "https://staticmade.com/2025/07/22/iron-man-was-the-first/",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2025/07/22/cooking-up-a-bit-of/",
+				
+				"content_html": "<p>Cooking up a bit of Jersey’s finest this morning. IYKYK.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Cooking up a bit of Jersey’s finest this morning. IYKYK. \n\n<img src=\"https://staticmade.com/uploads/2025/be5c78e005.jpg\" width=\"600\" height=\"450\" alt=\"A hand is holding a packaged roll of John Taylor's Pork Roll.\">\n",
+				"date_published": "2025-07-22T10:49:37-04:00",
+				"url": "https://staticmade.com/2025/07/22/cooking-up-a-bit-of/",
+				"tags": ["Travel"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2025/07/21/kev-quirk-on-smart-watches/",
 				
 				"content_html": "<p><a href=\"https://kevquirk.com/blog/i-don-t-see-the-point-of-smartwatches\">Kev Quirk</a> on smart watches:</p>\n<blockquote>\n<p>Wrist phones really are one of the most pointless, stupid inventions I’ve ever seen.</p>\n</blockquote>\n<p><a href=\"https://staticmade.com/2024/12/18/running-away-from-quantified-self/\">Agreed</a>.</p>\n",
@@ -19,7 +163,7 @@
 				"id": "http://jinscho.micro.blog/2025/07/19/first-time-in-wildwood-crest/",
 				
 				"content_html": "<p>First time in Wildwood Crest since I was a kid. I woke up early &amp; got in a nice 10K — out to the north sea wall and back. It started raining as I reached the turn around point and I finished the run in a cool downpour.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First time in Wildwood Crest since I was a kid. I woke up early & got in a nice 10K — out to the north sea wall and back. It started raining as I reached the turn around point and I finished the run in a cool downpour. \n\n<img src=\"uploads/2025/72cbdcdf2b.jpg\" width=\"600\" height=\"449\" alt=\"Large letters spelling &quot;WILDWOODS&quot; are prominently displayed on a boardwalk with spherical decorations in front and a cloudy sky in the background.\"><img src=\"uploads/2025/b7619ef763.jpg\" width=\"600\" height=\"450\" alt=\"A rocky shoreline meets a vast, cloudy sky over an expansive ocean.\">\n",
+				"content_text": "First time in Wildwood Crest since I was a kid. I woke up early & got in a nice 10K — out to the north sea wall and back. It started raining as I reached the turn around point and I finished the run in a cool downpour. \n\n<img src=\"https://staticmade.com/uploads/2025/72cbdcdf2b.jpg\" width=\"600\" height=\"449\" alt=\"Large letters spelling &quot;WILDWOODS&quot; are prominently displayed on a boardwalk with spherical decorations in front and a cloudy sky in the background.\"><img src=\"https://staticmade.com/uploads/2025/b7619ef763.jpg\" width=\"600\" height=\"450\" alt=\"A rocky shoreline meets a vast, cloudy sky over an expansive ocean.\">\n",
 				"date_published": "2025-07-19T11:19:32-04:00",
 				"url": "https://staticmade.com/2025/07/19/first-time-in-wildwood-crest/",
 				"tags": ["Adventures","Travel"]
