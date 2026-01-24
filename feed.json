@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/01/24/i-respect-alex-honnold-as/",
+				
+				"content_html": "<p>I respect Alex Honnold as one of the greatest climbers ever, but his <a href=\"https://www.netflix.com/tudum/articles/how-to-watch-alex-honnold-skyscraper-climb-live-netflix\">Skyscraper</a> event on Netflix feels like an attempt at spectacle to me. The “live on TV” angle seemingly positions a viewership more interested in watching him fall than summit. I won’t be watching live, but perhaps will when I know he makes it to the top safely.</p>\n",
+				"content_text": "I respect Alex Honnold as one of the greatest climbers ever, but his [Skyscraper](https://www.netflix.com/tudum/articles/how-to-watch-alex-honnold-skyscraper-climb-live-netflix) event on Netflix feels like an attempt at spectacle to me. The “live on TV” angle seemingly positions a viewership more interested in watching him fall than summit. I won’t be watching live, but perhaps will when I know he makes it to the top safely. \n",
+				"date_published": "2026-01-24T06:38:49-05:00",
+				"url": "https://staticmade.com/2026/01/24/i-respect-alex-honnold-as/"
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/01/23/the-promise-is-perception/",
 				"title": "The Promise is Perception",
 				"content_html": "<p>Casey Newton in <a href=\"https://www.platformer.news/ai-productivity-paradox-metr-pwc-workday/\">Platformer</a>:</p>\n<blockquote>\n<p>One of the more famous papers about artificial intelligence last year came from METR, a nonprofit that evaluates frontier AI models. In July, it published results of a randomized controlled trial studying experienced open-source developers. It found that when they use AI tools, completing tasks takes them 19 percent longer than when they go without. That was surprising enough. But the real twist is that when these same developers were asked what AI had done for them, they reported that it had sped them up by 20 percent.</p>\n</blockquote>\n<p>This was a fascinating dive into the professional productivity that&rsquo;s promised by our AI overlords. We&rsquo;re starting to learn that much of this productivty is perceived. I&rsquo;ve felt this in my own professional life, and have drastically reduced my use of Copilot at work because I found myself spending far too much time reviewing and correcting incorrect output from the model.</p>\n<p>I also found many of the outputs, when accurate and correct, were just OK and simply not up to my professional standards. So much of my daily work requires communicating effectively through writing &ndash; explaining value and impact to leadership; acting as a translation layer between engineering, design and the business; and aligning stakeholders to broad, complex initiatives &ndash; all of which need to be buttoned-up to my highest standard. I&rsquo;m simply not getting that quality from any AI model I&rsquo;ve tried.</p>\n",
@@ -81,7 +89,7 @@
 				"id": "http://jinscho.micro.blog/2026/01/12/traveling-to-nyc-for-work/",
 				
 				"content_html": "<p>Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
+				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"https://staticmade.com/uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
 				"date_published": "2026-01-12T05:28:34-05:00",
 				"url": "https://staticmade.com/2026/01/12/traveling-to-nyc-for-work/",
 				"tags": ["Pittsburgh","Travel"]
