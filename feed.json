@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/01/25/greetings-from-the-blizzard-of/",
+				
+				"content_html": "<p>Greetings from the Blizzard of ‘26. Just finished my first round of shoveling. We have about 7” so far, and the forecast looks like another 10”-12” are on the way today. To those in the path of the storm, stay safe and warm!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Greetings from the Blizzard of ‘26. Just finished my first round of shoveling. We have about 7” so far, and the forecast looks like another 10”-12” are on the way today. To those in the path of the storm, stay safe and warm!\n\n<img src=\"uploads/2026/5f6b045050.jpg\" width=\"600\" height=\"450\" alt=\"A person wearing large ski goggles and winter clothing stands in a snowy setting.\">\n",
+				"date_published": "2026-01-25T09:51:20-05:00",
+				"url": "https://staticmade.com/2026/01/25/greetings-from-the-blizzard-of/"
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/01/25/watched-send-help-this-was/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1198994\">Send Help</a> 🍿</p>\n<p>This was a fun, over-the-top flick. Nothing earth shattering cinema-wise, but I enjoyed it as a distraction and escape from the day’s news.</p>\n",
+				"content_text": "Watched: [Send Help](https://www.themoviedb.org/movie/1198994) 🍿\n\nThis was a fun, over-the-top flick. Nothing earth shattering cinema-wise, but I enjoyed it as a distraction and escape from the day’s news.\n",
+				"date_published": "2026-01-25T07:07:04-05:00",
+				"url": "https://staticmade.com/2026/01/25/watched-send-help-this-was/",
+				"tags": ["Film + TV"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/01/24/i-respect-alex-honnold-as/",
 				
 				"content_html": "<p>I respect Alex Honnold as one of the greatest climbers ever, but his <a href=\"https://www.netflix.com/tudum/articles/how-to-watch-alex-honnold-skyscraper-climb-live-netflix\">Skyscraper</a> event on Netflix feels like an attempt at spectacle to me. The “live on TV” angle seemingly positions a viewership more interested in watching him fall than summit. I won’t be watching live, but perhaps will when I know he makes it to the top safely.</p>\n",
@@ -89,7 +106,7 @@
 				"id": "http://jinscho.micro.blog/2026/01/12/traveling-to-nyc-for-work/",
 				
 				"content_html": "<p>Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"https://staticmade.com/uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
+				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
 				"date_published": "2026-01-12T05:28:34-05:00",
 				"url": "https://staticmade.com/2026/01/12/traveling-to-nyc-for-work/",
 				"tags": ["Pittsburgh","Travel"]
