@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/02/02/wikipedia-clearing-up-any-confusion/",
+				
+				"content_html": "<p><a href=\"https://en.wikipedia.org/wiki/Groundhog_Day\">Wikipedia</a>, clearing up any confusion about Groundhog Day and Punxsutawney Phil:</p>\n<blockquote>\n<p>While the tradition remains popular in the 21st century, studies have found no consistent association between a groundhog seeing its shadow and the subsequent arrival time of spring-like weather.</p>\n</blockquote>\n",
+				"content_text": "[Wikipedia](https://en.wikipedia.org/wiki/Groundhog_Day), clearing up any confusion about Groundhog Day and Punxsutawney Phil:\n\n>While the tradition remains popular in the 21st century, studies have found no consistent association between a groundhog seeing its shadow and the subsequent arrival time of spring-like weather.\n",
+				"date_published": "2026-02-02T10:25:13-05:00",
+				"url": "https://staticmade.com/2026/02/02/wikipedia-clearing-up-any-confusion/",
+				"tags": ["Pittsburgh"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/01/31/standing-on-a-frozensolid-lake/",
+				
+				"content_html": "<p>Standing on a frozen-solid Lake Arthur, Moraine State Park.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Standing on a frozen-solid Lake Arthur, Moraine State Park.\n\n<img src=\"uploads/2026/ebda4c1a73.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing winter clothing stands on a snowy, frozen landscape with trees in the background.\">\n",
+				"date_published": "2026-01-31T17:39:39-05:00",
+				"url": "https://staticmade.com/2026/01/31/standing-on-a-frozensolid-lake/",
+				"tags": ["Adventures"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/01/31/im-loving-this-new-ep/",
+				
+				"content_html": "<p>I’m loving this new EP <em><a href=\"https://mainera.bandcamp.com/album/iv-of-wands\">IV of Wands</a></em> from Boston-based Main Era. Super noisy, but with enough structure to chill with. Some might say shoegazey slowcore. Whatever you wanna call it, it’s rad. Bonus points for using jigsaws, power drills and hammers as instruments.</p>\n",
+				"content_text": "I’m loving this new EP _[IV of Wands](https://mainera.bandcamp.com/album/iv-of-wands)_ from Boston-based Main Era. Super noisy, but with enough structure to chill with. Some might say shoegazey slowcore. Whatever you wanna call it, it’s rad. Bonus points for using jigsaws, power drills and hammers as instruments. \n",
+				"date_published": "2026-01-31T11:29:51-05:00",
+				"url": "https://staticmade.com/2026/01/31/im-loving-this-new-ep/",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/01/31/congratulations-mother-nature-you-did/",
 				
 				"content_html": "<p>Congratulations, Mother Nature. You did it. You crushed the record low by 7 degrees. I know it was hard and has taken you more than a week of close attempts. Can we please now return to more livable conditions? Anything above 0F would be wonderful. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. JDI.</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +63,7 @@
 				"id": "http://jinscho.micro.blog/2026/01/28/feels-like-f-this-morning/",
 				
 				"content_html": "<p>Feels like -5F this morning. Buddy’s got the right idea.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feels like -5F this morning. Buddy’s got the right idea. \n\n<img src=\"uploads/2026/79c3859ef9.jpg\" width=\"600\" height=\"450\" alt=\"A dog is cozily wrapped in a blanket featuring cartoon characters.\">\n",
+				"content_text": "Feels like -5F this morning. Buddy’s got the right idea. \n\n<img src=\"https://staticmade.com/uploads/2026/79c3859ef9.jpg\" width=\"600\" height=\"450\" alt=\"A dog is cozily wrapped in a blanket featuring cartoon characters.\">\n",
 				"date_published": "2026-01-28T07:02:55-05:00",
 				"url": "https://staticmade.com/2026/01/28/feels-like-f-this-morning/"
 			},
@@ -44,7 +71,7 @@
 				"id": "http://jinscho.micro.blog/2026/01/25/greetings-from-the-blizzard-of/",
 				
 				"content_html": "<p>Greetings from the Blizzard of ‘26. Just finished my first round of shoveling. We have about 7” so far, and the forecast looks like another 10”-12” are on the way today. To those in the path of the storm, stay safe and warm!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Greetings from the Blizzard of ‘26. Just finished my first round of shoveling. We have about 7” so far, and the forecast looks like another 10”-12” are on the way today. To those in the path of the storm, stay safe and warm!\n\n<img src=\"uploads/2026/5f6b045050.jpg\" width=\"600\" height=\"450\" alt=\"A person wearing large ski goggles and winter clothing stands in a snowy setting.\">\n",
+				"content_text": "Greetings from the Blizzard of ‘26. Just finished my first round of shoveling. We have about 7” so far, and the forecast looks like another 10”-12” are on the way today. To those in the path of the storm, stay safe and warm!\n\n<img src=\"https://staticmade.com/uploads/2026/5f6b045050.jpg\" width=\"600\" height=\"450\" alt=\"A person wearing large ski goggles and winter clothing stands in a snowy setting.\">\n",
 				"date_published": "2026-01-25T09:51:20-05:00",
 				"url": "https://staticmade.com/2026/01/25/greetings-from-the-blizzard-of/"
 			},
@@ -140,7 +167,7 @@
 				"id": "http://jinscho.micro.blog/2026/01/12/traveling-to-nyc-for-work/",
 				
 				"content_html": "<p>Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
+				"content_text": "Traveling to NYC for work today, but you know I found a biz-appropriate way to rep the Black-n-Gold. #HereWeGo Steelers!\n\n<img src=\"https://staticmade.com/uploads/2026/07cad6913c.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing jeans and brown shoes has crossed legs, displaying a yellow sock with a sports logo.\">\n",
 				"date_published": "2026-01-12T05:28:34-05:00",
 				"url": "https://staticmade.com/2026/01/12/traveling-to-nyc-for-work/",
 				"tags": ["Pittsburgh","Travel"]
