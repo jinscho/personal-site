@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/02/16/watched-bugonia-elliott-recommended-this/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/701387\">Bugonia</a> 🍿</p>\n<p>Elliott recommended this one. Loved it. Hope it cleans up at the Academy Awards.</p>\n",
+				"content_text": "Watched: [Bugonia](https://www.themoviedb.org/movie/701387) 🍿\n\nElliott recommended this one. Loved it. Hope it cleans up at the Academy Awards. \n",
+				"date_published": "2026-02-16T20:21:01-05:00",
+				"url": "https://staticmade.com/2026/02/16/watched-bugonia-elliott-recommended-this/",
+				"tags": ["Film + TV"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/02/13/victor-pickard-professor-of-media/",
+				
+				"content_html": "<p>Victor Pickard, Professor of Media Policy and Political Economy at the University of Pennsylvania, <a href=\"https://www.asc.upenn.edu/news-events/news/save-media-ditch-capitalism-new-study-says\">in a new paper</a> that breaks down the failures of a media market that values profit over the public good:</p>\n<blockquote>\n<p>&ldquo;Capitalism incentivizes the degradation of news media — from disinvesting in local journalism to capturing our attention and extracting personal data to devaluing and casualizing news workers’ conditions.&rdquo;</p>\n</blockquote>\n<p>He&rsquo;s not wrong, but this is a daunting ask. Accomplishing what he&rsquo;s proposing will require drastic mindset shifts and political regime change here in the United States.</p>\n",
+				"content_text": "Victor Pickard, Professor of Media Policy and Political Economy at the University of Pennsylvania, [in a new paper](https://www.asc.upenn.edu/news-events/news/save-media-ditch-capitalism-new-study-says) that breaks down the failures of a media market that values profit over the public good:\n\n>\"Capitalism incentivizes the degradation of news media — from disinvesting in local journalism to capturing our attention and extracting personal data to devaluing and casualizing news workers’ conditions.\"\n\nHe's not wrong, but this is a daunting ask. Accomplishing what he's proposing will require drastic mindset shifts and political regime change here in the United States.\n",
+				"date_published": "2026-02-13T14:59:57-05:00",
+				"url": "https://staticmade.com/2026/02/13/victor-pickard-professor-of-media/",
+				"tags": ["Media"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/02/13/meta-plans-to-add-facial/",
 				
-				"content_html": "<p>Meta plans to add facial recognition technology to their smart glasses &amp; <a href=\"https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.6h9s.hor0Clrqgb2I&amp;smid=nytcore-ios-share\">they&rsquo;re looking for the opportune time to release it</a>:</p>\n<blockquote>\n<p>“We will launch during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns&quot;</p>\n</blockquote>\n<p>There will always be ample resources to call out this fash-tech for what it is: <a href=\"https://www.urbandictionary.com/define.php?term=Glasshole\">Glassholes</a> v2.0</p>\n",
-				"content_text": "Meta plans to add facial recognition technology to their smart glasses & [they're looking for the opportune time to release it](https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.6h9s.hor0Clrqgb2I&smid=nytcore-ios-share):\n\n>“We will launch during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns\"\n\nThere will always be ample resources to call out this fash-tech for what it is: [Glassholes](https://www.urbandictionary.com/define.php?term=Glasshole) v2.0\n",
+				"content_html": "<p>Meta plans to add facial recognition technology to their smart glasses &amp; <a href=\"https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.6h9s.hor0Clrqgb2I&amp;smid=nytcore-ios-share\">they&rsquo;re looking for the opportune time to release it</a>:</p>\n<blockquote>\n<p>“We will launch during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.&quot;</p>\n</blockquote>\n<p>There will always be ample resources to call out this fash-tech for what it is: A much more nefarious enabler of <a href=\"https://www.urbandictionary.com/define.php?term=Glasshole\">Glassholes</a> v2.0</p>\n",
+				"content_text": "Meta plans to add facial recognition technology to their smart glasses & [they're looking for the opportune time to release it](https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.6h9s.hor0Clrqgb2I&smid=nytcore-ios-share):\n\n>“We will launch during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.\"\n\nThere will always be ample resources to call out this fash-tech for what it is: A much more nefarious enabler of [Glassholes](https://www.urbandictionary.com/define.php?term=Glasshole) v2.0\n",
 				"date_published": "2026-02-13T09:09:10-05:00",
 				"url": "https://staticmade.com/2026/02/13/meta-plans-to-add-facial/"
 			},
@@ -44,7 +62,7 @@
 				"id": "http://jinscho.micro.blog/2026/02/06/weve-been-trying-to-expand/",
 				
 				"content_html": "<p>We’ve been trying to expand the recipes in our family dinner rotation. I’ve always struggled to make Asian cuisine, but I think I finally nailed a dish with this Thai fried rice. Everyone loved it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We’ve been trying to expand the recipes in our family dinner rotation. I’ve always struggled to make Asian cuisine, but I think I finally nailed a dish with this Thai fried rice. Everyone loved it. \n\n<img src=\"uploads/2026/ae79c73d26.jpg\" width=\"600\" height=\"600\" alt=\"A bowl of fried rice with vegetables, garnished with cilantro and accompanied by two spring rolls and chopsticks, sits on a wooden surface.\">\n",
+				"content_text": "We’ve been trying to expand the recipes in our family dinner rotation. I’ve always struggled to make Asian cuisine, but I think I finally nailed a dish with this Thai fried rice. Everyone loved it. \n\n<img src=\"https://staticmade.com/uploads/2026/ae79c73d26.jpg\" width=\"600\" height=\"600\" alt=\"A bowl of fried rice with vegetables, garnished with cilantro and accompanied by two spring rolls and chopsticks, sits on a wooden surface.\">\n",
 				"date_published": "2026-02-06T05:58:13-05:00",
 				"url": "https://staticmade.com/2026/02/06/weve-been-trying-to-expand/",
 				"tags": ["Family"]
