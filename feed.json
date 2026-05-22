@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/05/22/i-just-signed-on-to/",
+				
+				"content_html": "<p>I just signed on to pace a good friend during his 100K next weekend. I&rsquo;ve never paced before, but have appreciated having good pacers in my ultrarunning past. I&rsquo;m planning to bring an approach that I would want in a pacer, but any advice from seasoned pacers for a first timer?</p>\n",
+				"content_text": "I just signed on to pace a good friend during his 100K next weekend. I've never paced before, but have appreciated having good pacers in my ultrarunning past. I'm planning to bring an approach that I would want in a pacer, but any advice from seasoned pacers for a first timer?\n",
+				"date_published": "2026-05-22T09:59:39-04:00",
+				"url": "https://staticmade.com/2026/05/22/i-just-signed-on-to/",
+				"tags": ["Adventures","Notes"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/05/20/a-mustread-mic-drop-piece/",
+				
+				"content_html": "<p>A must-read mic drop piece from Marisa Kabas: <a href=\"https://www.thehandbasket.co/p/hating-ai-is-good-actually\">Hating AI is good, actually</a></p>\n",
+				"content_text": "A must-read mic drop piece from Marisa Kabas: [Hating AI is good, actually](https://www.thehandbasket.co/p/hating-ai-is-good-actually)\n",
+				"date_published": "2026-05-20T18:10:49-04:00",
+				"url": "https://staticmade.com/2026/05/20/a-mustread-mic-drop-piece/",
+				"tags": ["Notes","AI"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/05/20/when-im-years-old-i/",
+				
+				"content_html": "<p>When I&rsquo;m 66 years old, I hope I&rsquo;m rocking and smiling as hard as Pat Smear is rocking and smiling in this Tiny Desk concert: <a href=\"https://youtu.be/wxaXWSVhRXU?si=jvhx2Ktvkw_-PIMh&amp;t=1131\">youtu.be/wxaXWSVhR&hellip;</a></p>\n",
+				"content_text": "When I'm 66 years old, I hope I'm rocking and smiling as hard as Pat Smear is rocking and smiling in this Tiny Desk concert: [youtu.be/wxaXWSVhR...](https://youtu.be/wxaXWSVhRXU?si=jvhx2Ktvkw_-PIMh&t=1131)\n",
+				"date_published": "2026-05-20T16:49:00-04:00",
+				"url": "https://staticmade.com/2026/05/20/when-im-years-old-i/",
+				"tags": ["Music","Notes"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/05/20/no-trust-to-burn/",
+				"title": "No Trust to Burn",
+				"content_html": "<p>The incomparable <a href=\"https://kovenjsmith.com/post/2026-05-19-ai-mojt/\">Koven Smith</a> asks some important questions about how AI might impact the museum sector, particularly key differentiators like trust and authority:</p>\n<blockquote>\n<p>I’ve always been somewhat skeptical of the “museums are the most trusted institutions in the universe” trope, but here is a situation in which a loss of authority in a very small situation has the potential to lead to a real collapse in the purpose of the institution.</p>\n</blockquote>\n<p>This is very similar to how I&rsquo;m starting to think about customer-facing AI at my current company (a retailer), where we strive to be the most trusted in our industry. Activating LLM-powered experiences is a decision that should not be taken lightly. We should take a measured, thoughtful, proactive, and research-based approach, as Koven advocates for in his post.</p>\n<p>Nobody trusts Walmart or Target or Amazon the way our customers trust us. Let them rush; they have little trust to lose. The bottom line is that we need to be careful rushing to implement in customer- and employee-facing experiences, so as to preserve &ndash; and ultimately grow &ndash; the trust we&rsquo;ve earned over decades with both groups.</p>\n<p>I still maintain: a company brave enough to publicly lean away from AI and <a href=\"https://staticmade.com/2026/01/14/humanity-as-differentiator/\">lean into humanity as a differentiator</a> could have one hell of a winning strategy.</p>\n",
+				"content_text": "The incomparable [Koven Smith](https://kovenjsmith.com/post/2026-05-19-ai-mojt/) asks some important questions about how AI might impact the museum sector, particularly key differentiators like trust and authority:\n\n>I’ve always been somewhat skeptical of the “museums are the most trusted institutions in the universe” trope, but here is a situation in which a loss of authority in a very small situation has the potential to lead to a real collapse in the purpose of the institution.\n\nThis is very similar to how I'm starting to think about customer-facing AI at my current company (a retailer), where we strive to be the most trusted in our industry. Activating LLM-powered experiences is a decision that should not be taken lightly. We should take a measured, thoughtful, proactive, and research-based approach, as Koven advocates for in his post. \n\nNobody trusts Walmart or Target or Amazon the way our customers trust us. Let them rush; they have little trust to lose. The bottom line is that we need to be careful rushing to implement in customer- and employee-facing experiences, so as to preserve -- and ultimately grow -- the trust we've earned over decades with both groups.\n\nI still maintain: a company brave enough to publicly lean away from AI and [lean into humanity as a differentiator](https://staticmade.com/2026/01/14/humanity-as-differentiator/) could have one hell of a winning strategy.\n\n",
+				"date_published": "2026-05-20T10:28:25-04:00",
+				"url": "https://staticmade.com/2026/05/20/no-trust-to-burn/",
+				"tags": ["Retail","Essays","AI"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/05/17/accidentally-swallowed-my-first-natural/",
 				
 				"content_html": "<p>Accidentally swallowed my first “natural GU” of the Spring 2026 Western Pennsylvania trail running season. Bigger than a gnat, smaller than a horsefly. A good reminder to breathe in through the nose and out through the mouth.</p>\n",
@@ -46,7 +82,7 @@
 				"id": "http://jinscho.micro.blog/2026/05/10/zach-bryan-with-heaven-on/",
 				
 				"content_html": "<p>Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸</p>\n<p>What a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸\n\nWhat a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen. \n\n<img src=\"uploads/2026/323c06945f.jpg\" width=\"600\" height=\"450\" alt=\"a concert stage at night from the nosebleeds\">\n",
+				"content_text": "Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸\n\nWhat a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen. \n\n<img src=\"https://staticmade.com/uploads/2026/323c06945f.jpg\" width=\"600\" height=\"450\" alt=\"a concert stage at night from the nosebleeds\">\n",
 				"date_published": "2026-05-10T07:34:09-04:00",
 				"url": "https://staticmade.com/2026/05/10/zach-bryan-with-heaven-on/"
 			},
@@ -4917,7 +4953,7 @@
 				"id": "http://jinscho.micro.blog/2022/10/04/an-amazing-twilight-rainbow-at/",
 				
 				"content_html": "<p>An amazing twilight rainbow at soccer practice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An amazing twilight rainbow at soccer practice\n\n<img src=\"uploads/2026/img-5469.png\">\n",
+				"content_text": "An amazing twilight rainbow at soccer practice\n\n<img src=\"https://staticmade.com/uploads/2026/img-5469.png\">\n",
 				"date_published": "2022-10-04T12:00:00-04:00",
 				"url": "https://staticmade.com/2022/10/04/an-amazing-twilight-rainbow-at/",
 				"tags": ["Adeline"]
