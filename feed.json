@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/05/23/only-in-pittsburgh/",
+				
+				"content_html": "<p>Only in Pittsburgh.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Only in Pittsburgh. \n\n<img src=\"uploads/2026/cdc2a48899.jpg\" width=\"600\" height=\"449\" alt=\"A hockey-themed parody of Michelangelo's The Creation of Adam features two players in Pittsburgh Penguins uniforms.\">\n",
+				"date_published": "2026-05-23T20:00:29-04:00",
+				"url": "https://staticmade.com/2026/05/23/only-in-pittsburgh/",
+				"tags": ["Pittsburgh"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/05/23/ryan-bingham-and-the-texas/",
+				
+				"content_html": "<p>Ryan Bingham and the Texas Gentlemen were fantastic last night. He is such a great songwriter and the Gentlemen were the perfect backing band for him.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ryan Bingham and the Texas Gentlemen were fantastic last night. He is such a great songwriter and the Gentlemen were the perfect backing band for him. \n\n<img src=\"uploads/2026/3537bf5731.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-23T08:01:58-04:00",
+				"url": "https://staticmade.com/2026/05/23/ryan-bingham-and-the-texas/",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/05/22/i-just-signed-on-to/",
 				
 				"content_html": "<p>I just signed on to pace a good friend during his 100K next weekend. I&rsquo;ve never paced before, but have appreciated having good pacers in my ultrarunning past. I&rsquo;m planning to bring an approach that I would want in a pacer, but any advice from seasoned pacers for a first timer?</p>\n",
