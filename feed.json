@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/06/06/were-planning-a-family-trip/",
+				
+				"content_html": "<p>We’re planning a family trip to Chicago. When we visit new cities, we like to explore on foot and taste our way through town. Tell me your favorite places for food in the Windy City.</p>\n",
+				"content_text": "We’re planning a family trip to Chicago. When we visit new cities, we like to explore on foot and taste our way through town. Tell me your favorite places for food in the Windy City. \n",
+				"date_published": "2026-06-06T09:17:23-04:00",
+				"url": "https://staticmade.com/2026/06/06/were-planning-a-family-trip/",
+				"tags": ["Notes","Travel"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/06/04/very-cool-chalk-painting-of/",
 				
 				"content_html": "<p>Very cool chalk painting of Maz on the North Shore river walk.</p>\n<!-- raw HTML omitted -->\n",
@@ -73,7 +82,7 @@
 				"id": "http://jinscho.micro.blog/2026/05/23/ryan-bingham-and-the-texas/",
 				
 				"content_html": "<p>Ryan Bingham and the Texas Gentlemen were fantastic last night. He is such a great songwriter and the Gentlemen were the perfect backing band for him.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ryan Bingham and the Texas Gentlemen were fantastic last night. He is such a great songwriter and the Gentlemen were the perfect backing band for him. \n\n<img src=\"uploads/2026/3537bf5731.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ryan Bingham and the Texas Gentlemen were fantastic last night. He is such a great songwriter and the Gentlemen were the perfect backing band for him. \n\n<img src=\"https://staticmade.com/uploads/2026/3537bf5731.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-05-23T08:01:58-04:00",
 				"url": "https://staticmade.com/2026/05/23/ryan-bingham-and-the-texas/",
 				"tags": ["Music"]
@@ -154,7 +163,7 @@
 				"id": "http://jinscho.micro.blog/2026/05/10/zach-bryan-with-heaven-on/",
 				
 				"content_html": "<p>Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸</p>\n<p>What a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸\n\nWhat a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen. \n\n<img src=\"uploads/2026/323c06945f.jpg\" width=\"600\" height=\"450\" alt=\"a concert stage at night from the nosebleeds\">\n",
+				"content_text": "Zach Bryan: With Heaven on Tour in Cleveland, Ohio 🎸\n\nWhat a show. I’m relatively new to the ZB world and this was my first time seeing him live. Did not disappoint. He played for 3 hours. The ~ 20-piece band absolutely slayed. One of the tightest performances I’ve seen. \n\n<img src=\"https://staticmade.com/uploads/2026/323c06945f.jpg\" width=\"600\" height=\"450\" alt=\"a concert stage at night from the nosebleeds\">\n",
 				"date_published": "2026-05-10T07:34:09-04:00",
 				"url": "https://staticmade.com/2026/05/10/zach-bryan-with-heaven-on/"
 			},
@@ -5025,7 +5034,7 @@
 				"id": "http://jinscho.micro.blog/2022/10/04/an-amazing-twilight-rainbow-at/",
 				
 				"content_html": "<p>An amazing twilight rainbow at soccer practice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An amazing twilight rainbow at soccer practice\n\n<img src=\"uploads/2026/img-5469.png\">\n",
+				"content_text": "An amazing twilight rainbow at soccer practice\n\n<img src=\"https://staticmade.com/uploads/2026/img-5469.png\">\n",
 				"date_published": "2022-10-04T12:00:00-04:00",
 				"url": "https://staticmade.com/2022/10/04/an-amazing-twilight-rainbow-at/",
 				"tags": ["Adeline"]
