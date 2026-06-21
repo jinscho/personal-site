@@ -7,13 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/06/21/elliotts-got-his-first-byline/",
+				
+				"content_html": "<p>Elliott’s got his first byline for his summer internship in today’s Pittsburgh Post-Gazette.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Elliott’s got his first byline for his summer internship in today’s Pittsburgh Post-Gazette.\n\n<img src=\"uploads/2026/b6caff5ba3.jpg\" width=\"600\" height=\"449\" alt=\"A newspaper article headline announces rising goaltender Ryder Fetterolf's readiness to take the next step in his career as a Penn State commit.\">\n",
+				"date_published": "2026-06-21T09:50:09-04:00",
+				"url": "https://staticmade.com/2026/06/21/elliotts-got-his-first-byline/",
+				"tags": ["Media","Pittsburgh","Elliott"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/06/19/terry-godier-some-things-need/",
+				
+				"content_html": "<p><a href=\"https://www.terrygodier.com/the-boring-internet\">Terry Godier:</a></p>\n<blockquote>\n<p>Some things need to become enormous to survive. Other things survive because they never needed to become enormous.</p>\n</blockquote>\n<p>A must-read for anyone interested in the health of the open web.</p>\n",
+				"content_text": "[Terry Godier:](https://www.terrygodier.com/the-boring-internet)\n\n>Some things need to become enormous to survive. Other things survive because they never needed to become enormous.\n\nA must-read for anyone interested in the health of the open web.\n",
+				"date_published": "2026-06-19T14:26:21-04:00",
+				"url": "https://staticmade.com/2026/06/19/terry-godier-some-things-need/",
+				"tags": ["Digital Culture","Notes"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/06/19/labor-al-fresco/",
+				
+				"content_html": "<p>Labor al fresco</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Labor al fresco\n\n<img src=\"uploads/2026/efa4766f2c.jpg\" width=\"450\" height=\"600\" alt=\"A laptop, red mug, notebook with a pen, and eyeglasses are arranged on an outdoor wooden table under a large purple patio umbrella with greenery and a house in the background.\">\n",
+				"date_published": "2026-06-19T09:57:50-04:00",
+				"url": "https://staticmade.com/2026/06/19/labor-al-fresco/"
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/06/19/watched-nirvanna-the-band-the/",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1154538\">Nirvanna the Band the Show the Movie</a> 🍿</p>\n<p>Finally got a chance to watch this and OMG it is so good. There were nods to nostalgia, but this film also delivers something completely fresh and new. Loved it.</p>\n",
 				"content_text": "Watched: [Nirvanna the Band the Show the Movie](https://www.themoviedb.org/movie/1154538) 🍿\n\nFinally got a chance to watch this and OMG it is so good. There were nods to nostalgia, but this film also delivers something completely fresh and new. Loved it. \n",
 				"date_published": "2026-06-19T07:51:47-04:00",
 				"url": "https://staticmade.com/2026/06/19/watched-nirvanna-the-band-the/",
-				"tags": ["Film + TV"]
+				"tags": ["Notes","Film + TV"]
 			},
 			{
 				"id": "http://jinscho.micro.blog/2026/06/13/if-you-told-me-back/",
