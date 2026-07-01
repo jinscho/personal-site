@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/07/01/from-above-the-clouds-the/",
+				
+				"content_html": "<p>from above the clouds<!-- raw HTML omitted -->\nthe coastline comes into view.<!-- raw HTML omitted -->\nwe are only ants.</p>\n",
+				"content_text": "from above the clouds<br>\nthe coastline comes into view.<br>\nwe are only ants.\n",
+				"date_published": "2026-07-01T12:33:33-04:00",
+				"url": "https://staticmade.com/2026/07/01/from-above-the-clouds-the/",
+				"tags": ["Notes","Haiku"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/06/30/the-bullpen-is-trash-but/",
 				
 				"content_html": "<p>the bullpen is trash<!-- raw HTML omitted -->\nbut the dingers keep coming.<!-- raw HTML omitted -->\nraise it. hoist the cone.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://jinscho.micro.blog/2026/06/27/in-yinz-we-trust/",
 				
 				"content_html": "<p>In Yinz We Trust</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In Yinz We Trust\n\n<img src=\"uploads/2026/f15bc61ccf.jpg\" width=\"450\" height=\"600\" alt=\"The words In Yinz we Trust are spray-painted in black on a rough, beige vertical surface.\">\n",
+				"content_text": "In Yinz We Trust\n\n<img src=\"https://staticmade.com/uploads/2026/f15bc61ccf.jpg\" width=\"450\" height=\"600\" alt=\"The words In Yinz we Trust are spray-painted in black on a rough, beige vertical surface.\">\n",
 				"date_published": "2026-06-27T18:51:35-04:00",
 				"url": "https://staticmade.com/2026/06/27/in-yinz-we-trust/",
 				"tags": ["Pittsburgh"]
