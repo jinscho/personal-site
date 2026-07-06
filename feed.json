@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/07/06/feet-in-the-sand-and/",
+				
+				"content_html": "<p>feet in the sand and<!-- raw HTML omitted -->\nhead in the clouds, i dream in<!-- raw HTML omitted -->\nsilent miles and salt</p>\n",
+				"content_text": "feet in the sand and<br>\nhead in the clouds, i dream in<br>\nsilent miles and salt\n",
+				"date_published": "2026-07-06T13:40:35-04:00",
+				"url": "https://staticmade.com/2026/07/06/feet-in-the-sand-and/",
+				"tags": ["Notes","Haiku"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/07/03/we-sit-in-the-eye/",
+				
+				"content_html": "<p>we sit in the eye<!-- raw HTML omitted -->\nwith storms swarming around us.<!-- raw HTML omitted -->\nthe rain never comes.</p>\n",
+				"content_text": "we sit in the eye<br>\nwith storms swarming around us.<br>\nthe rain never comes.\n",
+				"date_published": "2026-07-03T18:00:22-04:00",
+				"url": "https://staticmade.com/2026/07/03/we-sit-in-the-eye/",
+				"tags": ["Notes","Haiku"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/07/02/big-horizon-vibes-the-sun/",
 				
 				"content_html": "<p>big horizon vibes.<!-- raw HTML omitted -->\nthe sun falls on the water.<!-- raw HTML omitted -->\nwe get the green flash.</p>\n",
@@ -64,7 +82,7 @@
 				"id": "http://jinscho.micro.blog/2026/06/27/in-yinz-we-trust/",
 				
 				"content_html": "<p>In Yinz We Trust</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In Yinz We Trust\n\n<img src=\"uploads/2026/f15bc61ccf.jpg\" width=\"450\" height=\"600\" alt=\"The words In Yinz we Trust are spray-painted in black on a rough, beige vertical surface.\">\n",
+				"content_text": "In Yinz We Trust\n\n<img src=\"https://staticmade.com/uploads/2026/f15bc61ccf.jpg\" width=\"450\" height=\"600\" alt=\"The words In Yinz we Trust are spray-painted in black on a rough, beige vertical surface.\">\n",
 				"date_published": "2026-06-27T18:51:35-04:00",
 				"url": "https://staticmade.com/2026/06/27/in-yinz-we-trust/",
 				"tags": ["Pittsburgh"]
