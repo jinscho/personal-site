@@ -1,11 +1,46 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Static Made by Jeffrey Inscho",
+	"title": "Jeffrey Inscho",
 	"icon": "https://micro.blog/jinscho/avatar.jpg",
 	"home_page_url": "https://staticmade.com/",
 	"feed_url": "https://staticmade.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jinscho.micro.blog/2026/07/26/farewell-old-friend/",
+				"title": "Farewell Old Friend",
+				"content_html": "<p>Yesterday we said goodbye to my trusted Jeep Wrangler. For more than decade, the Jeep served us well. We traveled far and wide, and made a lot of memories, but it was time to move on.</p>\n<p>It&rsquo;s interesting to think about life in terms of phases and markers. The Jeep Wrangler era was certainly a good one for me.</p>\n<p>Ultimately, we decided to go in another direction with our new vehicle and I&rsquo;m looking forward to finding out how my VW era turns out for me.</p>\n<p><img src=\"uploads/2026/img-6318.jpg\" width=\"600\" height=\"450\" alt=\"A smiling woman and a man wearing a yellow cap are sitting inside a car with the top down, surrounded by green trees.\"><img src=\"uploads/2026/img-3071.jpg\" width=\"450\" height=\"600\" alt=\"Two children are happily standing and sitting on the back of a red Jeep parked on grass with trees and a partly cloudy sky in the background.\"><img src=\"uploads/2026/28c8843da9.jpg\" width=\"600\" height=\"449\" alt=\"A young girl is sitting in the driver's seat of a bright orange Jeep Wrangler with the door open.\"><img src=\"uploads/2026/img-6967.jpg\" width=\"600\" height=\"450\" alt=\"A man holding colorful balloons and making a hand gesture is sitting in the driver's seat of a red jeep, while a boy is seated in the back.\"><img src=\"uploads/2026/img-7220.jpg\" width=\"600\" height=\"450\" alt=\"A man wearing a blonde mullet wig and a black hoodie is taking a selfie outdoors with a red Jeep parked in the background.\"></p>\n",
+				"content_text": "Yesterday we said goodbye to my trusted Jeep Wrangler. For more than decade, the Jeep served us well. We traveled far and wide, and made a lot of memories, but it was time to move on. \n\nIt's interesting to think about life in terms of phases and markers. The Jeep Wrangler era was certainly a good one for me. \n\nUltimately, we decided to go in another direction with our new vehicle and I'm looking forward to finding out how my VW era turns out for me.\n\n<img src=\"uploads/2026/img-6318.jpg\" width=\"600\" height=\"450\" alt=\"A smiling woman and a man wearing a yellow cap are sitting inside a car with the top down, surrounded by green trees.\"><img src=\"uploads/2026/img-3071.jpg\" width=\"450\" height=\"600\" alt=\"Two children are happily standing and sitting on the back of a red Jeep parked on grass with trees and a partly cloudy sky in the background.\"><img src=\"uploads/2026/28c8843da9.jpg\" width=\"600\" height=\"449\" alt=\"A young girl is sitting in the driver's seat of a bright orange Jeep Wrangler with the door open.\"><img src=\"uploads/2026/img-6967.jpg\" width=\"600\" height=\"450\" alt=\"A man holding colorful balloons and making a hand gesture is sitting in the driver's seat of a red jeep, while a boy is seated in the back.\"><img src=\"uploads/2026/img-7220.jpg\" width=\"600\" height=\"450\" alt=\"A man wearing a blonde mullet wig and a black hoodie is taking a selfie outdoors with a red Jeep parked in the background.\">\n",
+				"date_published": "2026-07-26T06:43:44-04:00",
+				"url": "https://staticmade.com/2026/07/26/farewell-old-friend/",
+				"tags": ["Family","Essays","Elliott","Adeline","Jilly"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/07/25/this-morning-while-watching-a/",
+				
+				"content_html": "<p>This morning while watching a section of the Tour de France and enjoying a cup of coffee, I caught an interesting advertisement from Meta. The ad asserts an optimistic, feel-good tone and attempts to position the company in contrast to their competitors in the AI space. Throughout the spot, they use the tagline &ldquo;we&rsquo;re betting on people&rdquo; in what I presume is a strategic decision to try and capitalize on growing anti-AI sentiment.</p>\n<p>This also feels like Meta is selling our aversion to AI back to us, which is just gross coming from a company that wants us to wear their AI on our faces.</p>\n<p>I&rsquo;m not linking to it because I don&rsquo;t want to proliferate their propaganda.</p>\n<p>I want to believe people are smart enough to see through this kind of AI astroturfing and realize these companies are all the same. They&rsquo;re all betting on people. They bet on people consume the slop. They bet on people to feed the machine. And they bet on people to continue that insidious cycle.</p>\n<p>The tide is shifting, however. People are beginning to understand the ramifications of rampant AI development. This mass-market ad is evidence of that.</p>\n",
+				"content_text": "This morning while watching a section of the Tour de France and enjoying a cup of coffee, I caught an interesting advertisement from Meta. The ad asserts an optimistic, feel-good tone and attempts to position the company in contrast to their competitors in the AI space. Throughout the spot, they use the tagline \"we're betting on people\" in what I presume is a strategic decision to try and capitalize on growing anti-AI sentiment.\n\nThis also feels like Meta is selling our aversion to AI back to us, which is just gross coming from a company that wants us to wear their AI on our faces. \n\nI'm not linking to it because I don't want to proliferate their propaganda.\n\nI want to believe people are smart enough to see through this kind of AI astroturfing and realize these companies are all the same. They're all betting on people. They bet on people consume the slop. They bet on people to feed the machine. And they bet on people to continue that insidious cycle.\n\nThe tide is shifting, however. People are beginning to understand the ramifications of rampant AI development. This mass-market ad is evidence of that.\n",
+				"date_published": "2026-07-25T08:34:19-04:00",
+				"url": "https://staticmade.com/2026/07/25/this-morning-while-watching-a/",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/07/24/what-a-week-looking-forward/",
+				
+				"content_html": "<p>What a week. Looking forward to touching grass this weekend.</p>\n<img src=\"uploads/2026/e714b1a93d.jpg\" width=\"450\" height=\"600\" alt=\"A glowing campfire burns in a stone fire pit on a grassy yard at sunset, with houses and trees in the background.\">\n",
+				"content_text": "What a week. Looking forward to touching grass this weekend. \n\n<img src=\"uploads/2026/e714b1a93d.jpg\" width=\"450\" height=\"600\" alt=\"A glowing campfire burns in a stone fire pit on a grassy yard at sunset, with houses and trees in the background.\">\n",
+				"date_published": "2026-07-24T20:57:47-04:00",
+				"url": "https://staticmade.com/2026/07/24/what-a-week-looking-forward/"
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/07/24/i-am-absolutely-loving-the/",
+				
+				"content_html": "<p>I am absolutely loving the new LP from Twisted Teens, <a href=\"https://cpnpc.bandcamp.com/album/florida-water-blues\"><em>Florida Water Blues</em></a>. This record picks up where last year&rsquo;s <em>blame the clown</em> left off and the songs are fun &amp; sloppy in the most perfect ways. It&rsquo;s been a long time since I&rsquo;ve been this excited about new music. The kids are gonna be alright.</p>\n",
+				"content_text": "I am absolutely loving the new LP from Twisted Teens, [_Florida Water Blues_](https://cpnpc.bandcamp.com/album/florida-water-blues). This record picks up where last year's _blame the clown_ left off and the songs are fun & sloppy in the most perfect ways. It's been a long time since I've been this excited about new music. The kids are gonna be alright.\n",
+				"date_published": "2026-07-24T17:10:57-04:00",
+				"url": "https://staticmade.com/2026/07/24/i-am-absolutely-loving-the/",
+				"tags": ["Music"]
+			},
 			{
 				"id": "http://jinscho.micro.blog/2026/07/18/wore-my-pirates-cap-to/",
 				
