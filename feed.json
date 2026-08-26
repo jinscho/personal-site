@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/08/26/history-has-told-us-that/",
+				
+				"content_html": "<p>History has told us that the good guys are never the ones <a href=\"https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/\">destroying books</a>.</p>\n",
+				"content_text": "History has told us that the good guys are never the ones [destroying books](https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/).\n",
+				"date_published": "2026-08-26T13:39:17-04:00",
+				"url": "https://staticmade.com/2026/08/26/history-has-told-us-that/",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/08/25/political-ads-for-the-midterms/",
+				
+				"content_html": "<p>Political ads for the mid-terms have started running in heavy rotation here in Pennsylvania. Nearly all of them mention data centers and AI as a negative attack on the opponent. I&rsquo;m very interested to see how this sentiment against big tech plays out at the ballot box in some of these local races.</p>\n",
+				"content_text": "Political ads for the mid-terms have started running in heavy rotation here in Pennsylvania. Nearly all of them mention data centers and AI as a negative attack on the opponent. I'm very interested to see how this sentiment against big tech plays out at the ballot box in some of these local races.\n",
+				"date_published": "2026-08-25T07:28:01-04:00",
+				"url": "https://staticmade.com/2026/08/25/political-ads-for-the-midterms/",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/08/24/linkedin-is-the-armpit-of/",
 				
 				"content_html": "<p>linkedin is the armpit of the internet</p>\n",
@@ -17,8 +35,8 @@
 			{
 				"id": "http://jinscho.micro.blog/2026/08/10/never-gets-old/",
 				
-				"content_html": "<p>Never gets old.</p>\n<img src=\"uploads/2026/e4c1400d38.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of a mountain range with snow-capped peaks seen from an airplane window showing part of the wing.\">\n",
-				"content_text": "Never gets old. \n\n<img src=\"uploads/2026/e4c1400d38.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of a mountain range with snow-capped peaks seen from an airplane window showing part of the wing.\">\n",
+				"content_html": "<p>Never gets old.</p>\n<img src=\"uploads/2026/e4c1400d38.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of a mountain range with snow-capped peaks seen from an airplane window showing part of the wing.\">\nng part of the wing.\">\n",
+				"content_text": "Never gets old. \n\n<img src=\"uploads/2026/e4c1400d38.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of a mountain range with snow-capped peaks seen from an airplane window showing part of the wing.\">\nng part of the wing.\">\n",
 				"date_published": "2026-08-10T13:26:45-04:00",
 				"url": "https://staticmade.com/2026/08/10/never-gets-old/",
 				"tags": ["Travel"]
