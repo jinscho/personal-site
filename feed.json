@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/08/31/just-heard-the-news-that/",
+				
+				"content_html": "<p>Just heard the news that <a href=\"https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died\">Yayoi Kusama has died at the age of 97</a>. Her <em>Infinity Rooms</em> at the <a href=\"https://mattress.org/exhibition/repetitive-vision/\">Mattress Factory</a> were instrumental in luring me to Pittsburgh, and ultimately working at the Mattress Factory for a number of years in the aughts.</p>\n<p>Rest in power, Queen. 🔴</p>\n",
+				"content_text": "Just heard the news that [Yayoi Kusama has died at the age of 97](https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died). Her _Infinity Rooms_ at the [Mattress Factory](https://mattress.org/exhibition/repetitive-vision/) were instrumental in luring me to Pittsburgh, and ultimately working at the Mattress Factory for a number of years in the aughts. \n\nRest in power, Queen. 🔴\n",
+				"date_published": "2026-08-31T11:55:08-04:00",
+				"url": "https://inscho.org/2026/08/31/just-heard-the-news-that/"
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/08/30/adult-swim-at-the-amusement/",
+				"title": "Adult Swim at the Amusement Park ",
+				"content_html": "<p>It’s been years since I’ve been to Kennywood. So long, in fact, that I was surprised to realize that Jilly and I are now at the point in our lives that we didn’t need to keep the kids at arms length or ride the kiddie rides with them.</p>\n<p>We let Adeline and her friends run and ride, so Jilly and I spent the day together riding roller coasters and people watching in the sunshine. It was lovely.</p>\n<p>My favorite ride of the day was the Steel Curtain, a Steelers themed coaster that was very intense. It was our first time riding it and we absolutely loved it.</p>\n<p><img src=\"uploads/2026/f60b3115-21d8-463a-8c7c-514f7da3a934.jpg\" width=\"342\" height=\"600\" alt=\"A roller coaster with yellow supports and black tracks is captured mid-loop against a clear blue sky.\"><img src=\"uploads/2026/ef0aeb69-6b9a-4e29-9f4b-dca2f070429f.jpg\" width=\"600\" height=\"450\" alt=\"A woman and a man are smiling and enjoying their time on a brightly lit carousel.\"></p>\n",
+				"content_text": "It’s been years since I’ve been to Kennywood. So long, in fact, that I was surprised to realize that Jilly and I are now at the point in our lives that we didn’t need to keep the kids at arms length or ride the kiddie rides with them. \n\nWe let Adeline and her friends run and ride, so Jilly and I spent the day together riding roller coasters and people watching in the sunshine. It was lovely. \n\nMy favorite ride of the day was the Steel Curtain, a Steelers themed coaster that was very intense. It was our first time riding it and we absolutely loved it. \n\n<img src=\"uploads/2026/f60b3115-21d8-463a-8c7c-514f7da3a934.jpg\" width=\"342\" height=\"600\" alt=\"A roller coaster with yellow supports and black tracks is captured mid-loop against a clear blue sky.\"><img src=\"uploads/2026/ef0aeb69-6b9a-4e29-9f4b-dca2f070429f.jpg\" width=\"600\" height=\"450\" alt=\"A woman and a man are smiling and enjoying their time on a brightly lit carousel.\">\n",
+				"date_published": "2026-08-30T17:36:13-04:00",
+				"url": "https://inscho.org/2026/08/30/adult-swim-at-the-amusement/",
+				"tags": ["Family","Essays","Adeline","Jilly"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/08/30/i-continue-to-assert-that/",
 				
-				"content_html": "<p>I continue to assert that the only acceptable use of whammy bar in rock was by Modest Mouse on <strong>Lonesome Crowded West</strong>.</p>\n",
-				"content_text": "I continue to assert that the only acceptable use of whammy bar in rock was by Modest Mouse on __Lonesome Crowded West__.\n",
+				"content_html": "<p>I continue to assert that the only acceptable use of whammy bar in rock was by Modest Mouse on <em>Lonesome Crowded West</em>.</p>\n",
+				"content_text": "I continue to assert that the only acceptable use of whammy bar in rock was by Modest Mouse on _Lonesome Crowded West_.\n",
 				"date_published": "2026-08-30T10:20:23-04:00",
 				"url": "https://inscho.org/2026/08/30/i-continue-to-assert-that/",
 				"tags": ["Music"]
