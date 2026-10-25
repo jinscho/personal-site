@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jinscho.micro.blog/2026/10/25/watched-the-diplomat-season-i/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/tv/203857/season/4\">The Diplomat Season 4</a> 🍿</p>\n<p>I enjoyed this. Loved the writing. Beautifully shot.</p>\n",
+				"content_text": "Watched: [The Diplomat Season 4](https://www.themoviedb.org/tv/203857/season/4) 🍿\n\nI enjoyed this. Loved the writing. Beautifully shot. \n",
+				"date_published": "2026-10-25T08:04:15-04:00",
+				"url": "https://inscho.org/2026/10/25/watched-the-diplomat-season-i/",
+				"tags": ["Film + TV"]
+			},
+			{
+				"id": "http://jinscho.micro.blog/2026/10/23/etna-pa/",
+				
+				"content_html": "<p>📍 Etna, PA</p>\n<img src=\"uploads/2026/img-0799.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "📍 Etna, PA\n\n<img src=\"uploads/2026/img-0799.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2026-10-23T13:16:18-04:00",
+				"url": "https://inscho.org/2026/10/23/etna-pa/",
+				"tags": ["Pittsburgh"]
+			},
+			{
 				"id": "http://jinscho.micro.blog/2026/10/23/a-fascinating-article-about-the/",
 				
 				"content_html": "<p>A fascinating article about <a href=\"https://sheets.works/data-viz/holding-up-the-internet\">the handful of people holding up the modern internet</a>. Like, for example, Paul Eggert, a lecturer at UCLA who in his spare time maintains the timezone database (a .txt file) that 4 billion smartphones rely on to understand what time to display.</p>\n",
@@ -35,8 +53,8 @@
 			{
 				"id": "http://jinscho.micro.blog/2026/10/07/no-moshing/",
 				
-				"content_html": "<p>This dad’s about to start a circle pit at Freya Skye.</p>\n<img src=\"uploads/2026/be6b07e2-dda7-409a-84d4-669985505a9e.jpg\" width=\"600\" height=\"449\" alt=\"A man is pointing at a sign that says NO MOSHING inside a dimly lit venue with people in the background.\">\n",
-				"content_text": "This dad’s about to start a circle pit at Freya Skye. \n\n<img src=\"uploads/2026/be6b07e2-dda7-409a-84d4-669985505a9e.jpg\" width=\"600\" height=\"449\" alt=\"A man is pointing at a sign that says NO MOSHING inside a dimly lit venue with people in the background.\">\n",
+				"content_html": "<p>This dad’s about to start a circle pit at Freya Skye.</p>\n<img src=\"https://inscho.org/uploads/2026/be6b07e2-dda7-409a-84d4-669985505a9e.jpg\" width=\"600\" height=\"449\" alt=\"A man is pointing at a sign that says NO MOSHING inside a dimly lit venue with people in the background.\">\n",
+				"content_text": "This dad’s about to start a circle pit at Freya Skye. \n\n<img src=\"https://inscho.org/uploads/2026/be6b07e2-dda7-409a-84d4-669985505a9e.jpg\" width=\"600\" height=\"449\" alt=\"A man is pointing at a sign that says NO MOSHING inside a dimly lit venue with people in the background.\">\n",
 				"date_published": "2026-10-07T19:58:40-04:00",
 				"url": "https://inscho.org/2026/10/07/no-moshing/"
 			},
